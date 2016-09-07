@@ -2,3 +2,5 @@
 .ipynb_checkpoints/*
 DeepLearning/Overview/.DS_Store
 DeepLearning/Overview/.ipynb_checkpoints/
+DeepLearning/Overview/MNIST_data/
+DeepLearning/Overview/__pycache__/
